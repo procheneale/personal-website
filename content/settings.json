@@ -11,11 +11,12 @@
     "social": {
       "github": "https://github.com/procheneale",
       "linkedin": "https://www.linkedin.com/in/paul-pedrozo/",
+      "youtube": "https://www.youtube.com/@paulpedrozo5671/featured",
       "mail": "mailto:paulpedrozo2000@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Paul Pedrozo" },
+    "logo": {"image": "images/logo.jpg"},
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -28,6 +29,7 @@
         "url": "/resume.pdf"
       },
       "footer": [
+        { "label": "Logo Vectors by Vecteezy", "url": "https://www.vecteezy.com/free-vector/p-logo"}
       ]
     },
     "featureToggles": {
