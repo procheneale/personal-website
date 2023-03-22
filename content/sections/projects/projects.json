@@ -40,7 +40,7 @@
       "visible": true,
       "category": "",
       "title": "Text to Image Generator",
-      "description": "TextToImage Generator is a simple image generator built using Stable Diffusion and Diffusers.",
+      "description": "A simple image generator built using Stable Diffusion and Diffusers.",
       "tags": ["Stable Diffusion", "Diffusers"],
       "image": {
         "src": "../../images/t2i.jpeg",
@@ -58,7 +58,7 @@
       "visible": true,
       "category": "",
       "title": "budgetApp",
-      "description": "The budget app is a personal app to keep track of expenses. The app budgets an income with a 50/30/20 (Wants/Needs/Savings) model. You can also include transactions to keep track of expenses within each category.",
+      "description": "A personal app to keep track of expenses. The app budgets an income with a 50/30/20 (Wants/Needs/Savings) model. You can also include transactions to keep track of expenses within each category.",
       "tags": ["React Native"],
       "image": {
         "src": "../../images/budgetThumb.jpeg",

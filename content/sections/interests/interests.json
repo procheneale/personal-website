@@ -3,49 +3,84 @@
     {
       "label": "Python",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
       "label": "SQL",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/sql.png",
         "alt": ""
       }
     },
     {
       "label": "React/React native",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "REST API",
+      "image": {
+        "src": "../../images/rest.jpeg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Terraform",
+      "image": {
+        "src": "../../images/terra.png",
         "alt": ""
       }
     },
     {
       "label": "AWS Glue",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/glue.png",
         "alt": ""
       }
     },
     {
       "label": "AWS Athena",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/athena.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AWS Lambda",
+      "image": {
+        "src": "../../images/lambda.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AWS API Gateway",
+      "image": {
+        "src": "../../images/api.png",
         "alt": ""
       }
     },
     {
       "label": "AWS CloudFront",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/cloudfront.jpeg",
         "alt": ""
       }
     },
     {
       "label": "AWS S3",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/s3.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Agile Methodology",
+      "image": {
+        "src": "../../images/agile.png",
         "alt": ""
       }
     }
@@ -53,6 +88,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 3
+    "initiallyShownInterests": 5
   }
 }

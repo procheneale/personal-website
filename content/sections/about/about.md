@@ -3,8 +3,8 @@ imageSrc: "../../images/photo.jpg"
 imageAlt: "Paul's Profile Picture"
 ---
 
-Allow me to introduce myself. My name is Paul and I enjoy creating software on the cloud. My passion for the cloud began when I created my first neural network using Google Colab.
+My name is Paul and I enjoy creating software on the cloud. My passion for the cloud began when I created my first neural network using Google Colab.
 
 Over the past few years, I worked on projects revolving around Big Data, Machine Learning, and Computer Vision.
 
-Currently, I have the privelege of working with Amazon Web Services as a Cloud Engineer. I focus on providing best practices, architecting, and building services living in the cloud. 
+Currently, I have the privelege of working with Amazon Web Services as a Cloud Engineer. I focus on providing best practices, architecting, and building services on the cloud. 
