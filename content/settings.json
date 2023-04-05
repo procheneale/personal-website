@@ -16,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": {"image": "images/logo.png"},
+    "logo": {"text": "Paul Pedrozo"},
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -29,7 +29,6 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Logo Vectors by Vecteezy", "url": "https://www.vecteezy.com/free-vector/p-logo"}
       ]
     },
     "featureToggles": {
